@@ -1,0 +1,16 @@
+# Gradle files
+.gradle/
+/build/
+/out/
+*.jar
+*.war
+*.class
+*.log
+*.iml
+/local.properties
+
+# IDE specific files
+.idea/
+*.iml
+*.hprof
+
